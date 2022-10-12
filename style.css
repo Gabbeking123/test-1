@@ -1,0 +1,15 @@
+div {
+    background-color: grey;
+    width: 300px;
+    border: 15px solid rgba(72, 5, 72, 0.934);
+    padding: 50px;
+    margin: 20px;
+  }
+
+  h3{
+    colorred;
+  }
+
+  .minText{
+    colorrgb(0, 0, 0);
+  }
